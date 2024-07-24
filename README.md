@@ -6,7 +6,7 @@
 
 ## Sobre Mí
 
-Soy un entusiasta de la innovación y la resolución creativa de problemas. Mi objetivo es crear soluciones. Me encanta aprender nuevas tecnologías todo el tiempo y explorar nuevas áreas del desarrollo de software, aunque amo el #BackEnd principalmente. 🤖
+Soy un profesional en constante aprendizaje, comprometido con la creación de soluciones innovadoras y la resolución creativa de problemas. Me encanta explorar nuevas tecnologías y áreas del desarrollo de software, con una especial predilección por el #BackEnd y todo lo que tenga que ver con #Data e #IA. 🤖
 
 ## Mis Intereses
 
