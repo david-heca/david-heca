@@ -17,7 +17,6 @@ I'm an **AI Solutions Architect** and **backend developer** passionate about bui
 - 🤖 Building solutions with **Azure OpenAI**, **MCP (Model Context Protocol)**, and advanced AI models
 - 🌱 Continuously expanding my expertise in **AI/ML engineering** and **intelligent automation**
 - 🎓 Committed **#Platzi** student, always learning and growing
-- ⚡ **Fun fact**: I turn complex problems into elegant AI solutions
 
 ---
 
@@ -51,25 +50,13 @@ I'm an **AI Solutions Architect** and **backend developer** passionate about bui
 
 ---
 
-## 📈 Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=david-heca&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-heca/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://davidheca.dev/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@davidheca.dev)
-
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=david-heca&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidherreradelcastillo2000@gmail.com)
   
 </div>
 
