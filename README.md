@@ -13,7 +13,7 @@
 
 I'm an **AI Solutions Architect** and **backend developer** passionate about building intelligent systems that solve real-world problems. I specialize in creating robust APIs and implementing cutting-edge AI solutions using modern technologies.
 
-- 🔭 Currently working on **AI-powered applications** with RAG implementations
+- 🔭 Currently working on **AI-powered applications**
 - 🤖 Building solutions with **Azure OpenAI**, **MCP (Model Context Protocol)**, and advanced AI models
 - 🌱 Continuously expanding my expertise in **AI/ML engineering** and **intelligent automation**
 - 🎓 Committed **#Platzi** student, always learning and growing
@@ -25,23 +25,26 @@ I'm an **AI Solutions Architect** and **backend developer** passionate about bui
 <div align="center">
 
 ### 🤖 AI & Machine Learning
+
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-4ECDC4?style=for-the-badge&logo=protocol&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### 💾 Backend & Languages
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🗄️ Databases & Vector Stores
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🔧 Tools & Cloud
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -55,7 +58,7 @@ I'm an **AI Solutions Architect** and **backend developer** passionate about bui
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-heca/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://davidheca.dev/)
+  ![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidherreradelcastillo2000@gmail.com)
   
 </div>
