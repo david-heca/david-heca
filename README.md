@@ -1,8 +1,7 @@
 # David Herrera
 
-AI Solutions Architect | IT Engineer | Software Developer
 
-[davidheca.dev](https://davidheca.dev)
+[davidherrera.dev](https://davidherrera.dev)
 
 ---
 
