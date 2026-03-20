@@ -2,7 +2,7 @@
 
 **software engineer** crafting data-driven & AI-powered solutions.
 
-i build things that scale — clean architecture, automation, and a lot of coffee.
+i build things that scale — clean architecture, automation, and a lot of ☕️.
 
 ---
 
