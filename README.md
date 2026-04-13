@@ -1,8 +1,8 @@
-# hey, i'm david 👋
+# Hey, I'm David 👋
 
-**software engineer** crafting data-driven & AI-powered solutions.
+**Software engineer** crafting data-driven & AI-powered solutions.
 
-i build things that scale — clean architecture, automation, and a lot of ☕️.
+I build things that scale — clean architecture, automation, and a lot of ☕️.
 
 ---
 
@@ -10,4 +10,6 @@ i build things that scale — clean architecture, automation, and a lot of ☕�
 
 ---
 
-→ [davidherrera.dev](https://davidherrera.dev)
+🚀 *Currently:* building something new.
+
+[![Website](https://img.shields.io/badge/davidherrera.dev-000)](https://davidherrera.dev)
