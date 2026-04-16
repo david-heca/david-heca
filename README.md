@@ -11,5 +11,3 @@ I build things that scale — clean architecture, automation, and a lot of ☕�
 ---
 
 🚀 *Currently:* building something new.
-
-[![Website](https://img.shields.io/badge/website-davidsheehan.com-blue)](https://davidherrera.dev)
